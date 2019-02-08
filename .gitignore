@@ -1,0 +1,7 @@
+Debug/
+Pixel/
+PixelSum.vcxproj
+PixelSum.vcxproj.filters
+PixelSum.vcxproj.user
+pch.cpp
+pch.h
