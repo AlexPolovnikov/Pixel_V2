@@ -1,5 +1,7 @@
 Debug/
 Pixel/
+Release/
+x64/
 PixelSum.vcxproj
 PixelSum.vcxproj.filters
 PixelSum.vcxproj.user
