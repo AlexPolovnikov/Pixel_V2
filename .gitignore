@@ -2,8 +2,11 @@ Debug/
 Pixel/
 Release/
 x64/
+benchmark/
 PixelSum.vcxproj
 PixelSum.vcxproj.filters
 PixelSum.vcxproj.user
 pch.cpp
 pch.h
+PropertySheet.props
+PixelSum — копия.cpp
